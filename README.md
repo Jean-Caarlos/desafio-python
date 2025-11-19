@@ -41,7 +41,6 @@ pip install -r requirements.txt
 4. Iniciar o servidor
 uvicorn app.main:app --reload
 A API estará disponível em:
-
 http://127.0.0.1:8000
 
 Documentação Swagger: http://127.0.0.1:8000/docs
@@ -62,6 +61,7 @@ json
   "latitude": -29.99,
   "longitude": -51.17
 }
+
 🔹 Resposta:
 json
 {
@@ -155,6 +155,8 @@ desafio-python/
 ├── data.db
 ├── requirements.txt
 └── README_SOLUCAO.md
+
+
 ✔ Resultado Final
 A solução:
 
