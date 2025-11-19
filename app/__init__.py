@@ -1,0 +1,1 @@
+# Tornando a pasta 'app' um pacote Python
